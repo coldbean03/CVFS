@@ -1,4 +1,4 @@
-# Customised-Virtual-File-System
+# CVFS
 
 •	This project provides all functionality to the user which is same as Linux File System.
 •	It provides necessary commands, system calls implementation of file system through customised shell.
